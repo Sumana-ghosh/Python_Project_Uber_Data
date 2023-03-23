@@ -1,2 +1,2 @@
 # Python_Project_Uber_Data
-This is a simple python project analysing Uber data in New York City in January to June 2015
+In this project, I performed exploratory data analysis using python on Uber dataset in New York City between January to June 2015.
